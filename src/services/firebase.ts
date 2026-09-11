@@ -5,14 +5,14 @@ import { Project, ConnectionDiagnostics } from '../types';
 // Credenciales oficiales extraídas de la configuración del proyecto y de la consola Firebase Realtime Database
 // NOTA IMPORTANTE: En el código original faltaba "databaseURL", lo que impedía la conexión con Firebase RTDB
 export const firebaseConfig = {
-  apiKey: "AIzaSyCU5Zm0vwW21FE2irdoFwOHd0pX2Q76OAE",
-  authDomain: "saitama-1-cf1ba.firebaseapp.com",
-  databaseURL: "https://saitama-1-cf1ba-default-rtdb.firebaseio.com", // <-- CLAVE CRÍTICA CORREGIDA
-  projectId: "saitama-1-cf1ba",
-  storageBucket: "saitama-1-cf1ba.firebasestorage.app",
-  messagingSenderId: "296838614285",
-  appId: "1:296838614285:web:27b939614496458c7f7444",
-  measurementId: "G-3W50HD67S4"
+  apiKey: "AIzaSyBAthUZn9IJoYOGUzywEZwUWXiGO2EYZg8",
+  authDomain: "repositorio-digital-5547a.firebaseapp.com",
+  databaseURL: "https://repositorio-digital-5547a-default-rtdb.firebaseio.com", // <-- CLAVE CRÍTICA CORREGIDA
+  projectId: "repositorio-digital-5547a",
+  storageBucket: "repositorio-digital-5547a.firebasestorage.app",
+  messagingSenderId: "476184563827",
+  appId: "1:476184563827:web:b209e38e49c0009a5d5a06",
+  measurementId: "G-7Q9W0Z5J18"
 };
 
 // Inicialización segura del SDK de Firebase
